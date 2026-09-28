@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+.one{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two{
+    font-size: 36px;
+    color: blue;
+}
+
+.three{
+     background-color: pink;
+     font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.five{
+    background-color: pink;
+}
